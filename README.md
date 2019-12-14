@@ -19,8 +19,7 @@
 17. Dependency Parsing
 18. Automatic speech recognition
 19. Common sense
-20. Constituency parsi2ng
-21. Dependency parsing
+20. Constituency parsing
 22. Coreference resolution
 23. Grammatical error correction
 24. Information extraction
