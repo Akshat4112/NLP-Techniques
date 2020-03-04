@@ -1,0 +1,14 @@
+
+datasets/glove6b/glove-word2vec.6B.100d.txt
+datasets/glove6b/glove.6B.100d.txt
+datasets/glove6b/glove.6B.100d.txt.word2vec
+*.zip
+datasets/entity-annotated-corpus/ner_dataset.csv
+datasets/glove6b/glove.6B.300d.txt
+datasets/glove6b/glove.6B.200d.txt
+datasets/GoogleNews-vectors-negative300.bin
+datasets/entity-annotated-corpus/ner.csv
+datasets/glove6b/glove.6B.50d.txt
+datasets/disease_data/sample_submission.csv
+datasets/disease_data/test.csv
+datasets/disease_data/train.csv
